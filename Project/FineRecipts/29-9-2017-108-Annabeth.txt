@@ -1,0 +1,8 @@
+            ALEXIS LIBRARY            
+--------------------------------------
+             Fee Recipt               
+--------------------------------------
+  Name: Annabeth
+  Member No: 108
+  Fine Amount: 7
+  Paid On: 29-9-2017

@@ -1,0 +1,8 @@
+            ALEXIS LIBRARY            
+--------------------------------------
+             Fee Recipt               
+--------------------------------------
+  Name: Utkarsh
+  Member No: 101
+  Fine Amount: 38
+  Paid On: 23-9-2017

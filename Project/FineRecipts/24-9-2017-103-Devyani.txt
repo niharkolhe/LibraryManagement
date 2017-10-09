@@ -1,0 +1,8 @@
+            ALEXIS LIBRARY            
+--------------------------------------
+             Fee Recipt               
+--------------------------------------
+  Name: Devyani
+  Member No: 103
+  Fine Amount: 10
+  Paid On: 24-9-2017

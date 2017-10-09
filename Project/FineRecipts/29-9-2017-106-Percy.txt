@@ -1,0 +1,8 @@
+            ALEXIS LIBRARY            
+--------------------------------------
+             Fee Recipt               
+--------------------------------------
+  Name: Percy
+  Member No: 106
+  Fine Amount: 12
+  Paid On: 29-9-2017

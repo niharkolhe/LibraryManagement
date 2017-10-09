@@ -1,0 +1,8 @@
+            ALEXIS LIBRARY            
+--------------------------------------
+             Fee Recipt               
+--------------------------------------
+  Name: Nihar
+  Member No: 105
+  Fine Amount: 40
+  Paid On: 24-9-2017

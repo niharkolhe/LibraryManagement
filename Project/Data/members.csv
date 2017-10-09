@@ -1,0 +1,10 @@
+Member no.,Member Name,Book1,DueDate1,Book2,DueDate2,Book3,DueDate3,Fine,ReIssueSlots
+101,Utkarsh,1019,9-10-2017,1006,18-8-2017,1005,9-10-2017,76,5
+102,Aishwarya,0,none,0,none,1004,9-10-2017,0,3
+103,Devyani,1019,21-9-2017,0,none,1019,6-10-2017,4,0
+104,Ayushi,1009,9-10-2017,0,none,0,none,5,5
+105,Nihar,0,none,0,none,1097,12-9-2017,0,5
+106,Percy,0,none,0,none,1089,7-7-2017,12,5
+107,Opal,0,none,0,none,0,none,9,5
+108,Annabeth,1030,9-10-2017,0,none,1019,22-9-2017,0,0
+109,Rohan,0,none,0,none,0,none,0,5
